@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Benoit
+- 👀 I’m interested in Data Science and coding.
+- 🌱 I’m currently learning Data Science with R
